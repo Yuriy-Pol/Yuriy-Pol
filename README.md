@@ -1,4 +1,4 @@
-### Hi, I'm Yurii 👋
+### Hi 👋
 
 Welcome to my page!
 I'm Full Stack Developer. My experienced both in Front-end and Back-end technologies. I'm open to work.
